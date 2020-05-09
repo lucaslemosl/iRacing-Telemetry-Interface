@@ -1,4 +1,4 @@
 # iRacing-Telemetry-Interface
 iRacing Telemetry Interface
 
-Small application with irsdk and Qt5
+Small application with irsdk and Tkinter
